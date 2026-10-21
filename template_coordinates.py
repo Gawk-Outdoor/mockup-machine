@@ -922,4 +922,13 @@ TEMPLATE_COORDINATES = {
             (2142, 1185),
         ]
     },
+    "Albury South (Digital) - 36908-D.png": {
+        "split_ratio": [1.0],
+        "LHS": [
+            (2141, 964),
+            (2913, 958),
+            (2913, 1182),
+            (2142, 1185),
+        ]
+    },
 }
