@@ -940,4 +940,13 @@ TEMPLATE_COORDINATES = {
             (1158, 999),
         ]
     },
+    "Griffith (Digital) - 26806-D.png": {
+        "split_ratio": [1.0],
+        "LHS": [
+            (677, 494),
+            (1480, 490),
+            (1481, 740),
+            (676, 738),
+        ]
+    },
 }
