@@ -931,4 +931,13 @@ TEMPLATE_COORDINATES = {
             (2142, 1185),
         ]
     },
+    "Geelong Waurn Ponds (Digital) - 32164-D.png": {
+        "split_ratio": [1.0],
+        "LHS": [
+            (1161, 775),
+            (1927, 749),
+            (1924, 988),
+            (1158, 999),
+        ]
+    },
 }
